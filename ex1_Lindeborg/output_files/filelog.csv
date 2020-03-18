@@ -1,0 +1,42 @@
+/ex1_Lindeborg/output_files/playing_around_2017,biochar production,7.978247226176541,t/y,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_pyrBMC50t,33.36848572513022,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_pyrBMC50t,25.46035954504557,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_pyrBMC50t,50.0,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_pyrBMC50t,31.232876712328768,% year,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_pyrBMC50t,3.737704918032787,months,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_el. heater,2.133609366413345,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_el. heater,-7.105427357601002e-15,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_el. heater,18.96360397501017,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_el. heater,69.31506849315069,% year,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_el. heater,8.295081967213116,months,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_hp,9.403777347608028,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_hp,1.367043121149898,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_hp,15.99999999999999,"kW heat output, yearly",20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_hp,68.76712328767123,% year,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_hp,8.22950819672131,months,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,pyrBMC50t heat produced,91296.17694395625,kWh/y,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,el. heater heat produced,12955.276072861841,kWh/y,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,hp heat produced,56648.35474199076,kWh/y,20200318T1845
+/ex1_Lindeborg/output_files/playing_around_2017,biochar production,7.978247226176541,t/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_pyrBMC50t,33.36848572513022,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_pyrBMC50t,25.46035954504557,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_pyrBMC50t,50.0,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_pyrBMC50t,31.232876712328768,% year,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_pyrBMC50t,3.737704918032787,months,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_el. heater,2.133609366413345,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_el. heater,-7.105427357601002e-15,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_el. heater,18.96360397501017,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_el. heater,69.31506849315069,% year,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_el. heater,8.295081967213116,months,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_average_hp,9.403777347608028,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_min_hp,1.367043121149898,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,Load_max_hp,15.99999999999999,"kW heat output, yearly",20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_year_hp,68.76712328767123,% year,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,TimeInUse_month_hp,8.22950819672131,months,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,pyrBMC50t heat produced,91296.17694395625,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,el. heater heat produced,12955.276072861841,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,hp heat produced,56648.35474199076,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,pyrBMC50t elec input,6501.606635398361,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,pyrBMC50t pellet input,197018.3828908596,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,el. heater elec input,12955.276072861903,kWh/y,20200318T1846
+/ex1_Lindeborg/output_files/playing_around_2017,hp elec input,13822.198557045744,kWh/y,20200318T1846
