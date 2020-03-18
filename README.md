@@ -43,7 +43,9 @@ This work relies on other libraries, including:
 - brightway2, https://github.com/brightway-lca
 - lcopt, https://github.com/pjamesjoyce/lcopt
 
-
+It also uses:
+- cplex
+- ecoinvent
 
  
 
