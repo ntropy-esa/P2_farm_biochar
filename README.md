@@ -1,19 +1,49 @@
-# P2a_farm_biochar
+# P2_farm_biochar
 
-A repo containing the code for research on on-farm biochar production potential estimates, variability and life cycle impacts.
+This repository contains the python code used in the manuscript "Small-scale biochar production on Swedish farms: a model for estimating potential, variability, and environmental performance".
 
-### Contents
-- /farm_interview: material and methods for interviews and primary data collected from the case studies
-- /farm_demand: calculates farm heating demand and saves vector at selected aggregation level
-- /farm_supply: defines the units available on the farm to supply heat/electricity
-- /farm_ficus: solves supply=demand while minimising a given function (climate impact); based on ficus.py, economic optimisation for industrial sites
-- /farm_bw2: calculates several evaluation indicators, based on output of farm_ficus, and parse the output to a bw2-compatible format
+**Short summary**
 
-- howTo_farm_biochar.jnb: jupyter notebook explaining 
-- cs1_Lindeborgs.jnb: notebook for case 1, Lindeborgs
-- cs2_Frakentorp.jnb: notebook for case 2, Fräkentorp
 
-Each repo has a howTo_farm_** and a dev_farm_** notebooks.
+## Structure
+
+It is structured as follows:
+
+
+    .
+    ├── farm_biochar_model                   # Core scripts
+    │   ├ farm_demand.py                        # calculate farm energy demand
+    │   ├ farm_supply.py                        # define equipment available on farm
+    │   ├ farm_ficus.py                         # unit commitment solver (adapted from ficus - https://github.com/yabata/ficus)
+    │   ├ farm_bw2.py                           # calculate indicators and generalte LCA inventory (based on brightway2 - https://github.com/brightway-lca)
+    │   ├ lcopt_multi_tagged.py                 # useful functions (from lcopt - https://github.com/pjamesjoyce/lcopt)
+    │   ├ farm_ficus_input_template.xlsx        # template input file to ficus
+    │   └ farm_supply_plants.xlsx               # list of equipment available for scenarios, new plant can be added here 
+    │     
+    ├── ex0_template                         # Template for new project
+    │
+    ├── ex1_Lindeborg                        # Case study at Lindeborg's farm
+    │   ├ input_files                           # e.g. electricity data, weather data
+    │   ├ output_files                          # e.g. ficus generated results, figures, logger
+    │   ├ 1_run scenarios.ipynb                 # notebook where simulations are defined and run
+    │   ├ 2_analyse scenarios.ipynb             # notebook where simulations are analysed, figures plotted
+    │   └ 3_bonus_dimensioning analysis.ipynb   # notebook for other purposes
+    │
+    ├── requirements.txt
+    └── README.md
+
+
+## Snapshots
+
+
+## Dependencies & credits
+
+This work relies on other libraries, including:
+- ficus, https://github.com/yabata/ficus
+- brightway2, https://github.com/brightway-lca
+- lcopt, https://github.com/pjamesjoyce/lcopt
+
+
 
  
 
