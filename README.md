@@ -35,6 +35,7 @@ It is structured as follows:
 
 ## Snapshots
 
+![energy-lca](snapshot.png)
 
 ## Dependencies & credits
 
@@ -44,8 +45,8 @@ This work relies on other libraries, including:
 - lcopt, https://github.com/pjamesjoyce/lcopt
 
 It also uses:
-- cplex
-- ecoinvent
+- cplex, http://www.cplex.com/
+- ecoinvent, https://www.ecoinvent.org/
 
  
 
