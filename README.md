@@ -24,7 +24,7 @@ It is structured as follows:
     │
     ├── ex1_Lindeborg                        # Case study at Lindeborg's farm
     │   ├ input_files                           # e.g. electricity data, weather data
-    │   ├ output_files                          # e.g. ficus generated results, figures, logger
+    │   ├ output_files                          # e.g. ficus generated results, figures, filelog.csv
     │   ├ 1_run scenarios.ipynb                 # notebook where simulations are defined and run
     │   ├ 2_analyse scenarios.ipynb             # notebook where simulations are analysed, figures plotted
     │   └ 3_bonus_dimensioning analysis.ipynb   # notebook for other purposes

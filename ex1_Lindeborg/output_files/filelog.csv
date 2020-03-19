@@ -1,3 +1,4 @@
+scenario_name,feature,value,unit,timestamp
 /ex1_Lindeborg/output_files/playing_around_2017,biochar production,7.978247226176541,t/y,20200318T1845
 /ex1_Lindeborg/output_files/playing_around_2017,Load_average_pyrBMC50t,33.36848572513022,"kW heat output, yearly",20200318T1845
 /ex1_Lindeborg/output_files/playing_around_2017,Load_min_pyrBMC50t,25.46035954504557,"kW heat output, yearly",20200318T1845
