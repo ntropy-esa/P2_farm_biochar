@@ -13,7 +13,7 @@ Several small-scale pyrolysis plants have been installed on Swedish farms and up
 
 ## Structure
 
-It is structured as follows:
+The repository is structured as follows:
 
 
     .
