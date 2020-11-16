@@ -2,7 +2,7 @@
 
 This repository contains the python code used in the manuscript "Small-scale biochar production on Swedish farms: a model for estimating potential, variability, and environmental performance".
 
-**DOI: https://doi.org/10.1016/j.jclepro.2020.124873 **
+DOI: https://doi.org/10.1016/j.jclepro.2020.124873
 
 ### Graphical Abstract
 
